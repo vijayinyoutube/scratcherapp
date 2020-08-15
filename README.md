@@ -1,6 +1,6 @@
 ## Scratch Card App
 
-[![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/scratcherapp)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-yellow.svg)](https://github.com/vijayinyoutube/scratcherapp) [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/scratcherapp) [![Flutter](https://img.shields.io/badge/Built_using-Flutter-blue.svg)](https://github.com/vijayinyoutube/scratcherapp)
+[![BUILD](https://img.shields.io/badge/Build-Passing-<COLOR>.svg)](https://github.com/vijayinyoutube/scratcherapp)  [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-orange/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![Repo Status](https://img.shields.io/badge/RepoStatus-Active-yellow.svg)](https://github.com/vijayinyoutube/scratcherapp) [![MIT license](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/vijayinyoutube/scratcherapp) [![Flutter](https://img.shields.io/badge/Built_using-Flutter-blue.svg)](https://github.com/vijayinyoutube/scratcherapp)
 
 An open source sample google pay scratch card demo app
 
