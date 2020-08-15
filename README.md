@@ -11,6 +11,7 @@ An open source sample google pay scratch card demo app
 ## App
 
 We have developed a similar feature that resembles the  Gpay scratch card. In this app we have made use of Scratcher Widget to make this possible.
+
 Visit My Channel for more Flutter Tutorials 👉: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
 
 ## Dependencies
