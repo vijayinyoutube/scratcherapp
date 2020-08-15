@@ -22,3 +22,31 @@ scratcher: "^1.4.0"
 ## Sample Results
 
 <img src="https://user-images.githubusercontent.com/58719230/90313932-d0edf700-df2d-11ea-9843-05a7ca162aa1.png" width="250"  height="450"> <img src="https://user-images.githubusercontent.com/58719230/90313931-cd5a7000-df2d-11ea-952f-93cde0d7c30b.png" width="250"  height="450"> <img src="https://user-images.githubusercontent.com/58719230/90313936-d2b7ba80-df2d-11ea-94d7-e3da17cf96ab.png" width="250"  height="450">
+
+## License
+
+```
+MIT License
+
+Copyright (c) 2020 Vijay R
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+
