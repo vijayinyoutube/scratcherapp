@@ -22,7 +22,7 @@ confetti: ^0.5.4+1
 
 ## Sample Results
 
-<img src="https://user-images.githubusercontent.com/58719230/90313932-d0edf700-df2d-11ea-9843-05a7ca162aa1.png" width="200"  height="300"> <img src="https://user-images.githubusercontent.com/58719230/90313931-cd5a7000-df2d-11ea-952f-93cde0d7c30b.png" width="200"  height="300"> <img src="https://user-images.githubusercontent.com/58719230/90597214-413a9800-e20e-11ea-9357-3eb03439727f.png" width="200"  height="300"> <img src="https://user-images.githubusercontent.com/58719230/90313936-d2b7ba80-df2d-11ea-94d7-e3da17cf96ab.png" width="200"  height="300"> 
+<img src="https://user-images.githubusercontent.com/58719230/90313932-d0edf700-df2d-11ea-9843-05a7ca162aa1.png" width="200"  height="325"> <img src="https://user-images.githubusercontent.com/58719230/90313931-cd5a7000-df2d-11ea-952f-93cde0d7c30b.png" width="200"  height="325"> <img src="https://user-images.githubusercontent.com/58719230/90597214-413a9800-e20e-11ea-9357-3eb03439727f.png" width="200"  height="325"> <img src="https://user-images.githubusercontent.com/58719230/90313936-d2b7ba80-df2d-11ea-94d7-e3da17cf96ab.png" width="200"  height="325"> 
 
 ## License
 
