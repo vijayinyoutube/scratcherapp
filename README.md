@@ -17,6 +17,7 @@ Visit My Channel for more Flutter Tutorials 👉: https://www.youtube.com/channe
 ## Dependencies
 ```
 scratcher: "^1.4.0"
+confetti: ^0.5.4+1
 ```
 
 ## Sample Results
