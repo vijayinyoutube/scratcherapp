@@ -1,3 +1,4 @@
+import 'package:confetti/confetti.dart';
 import 'package:flutter/material.dart';
 import 'package:scratcher/widgets.dart';
 
@@ -7,6 +8,16 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
+  ConfettiController _controller;
+
+  @override
+  void initState() {
+    super.initState();
+    _controller = new ConfettiController(
+      duration: new Duration(seconds: 2),
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -21,7 +32,7 @@ class _MyHomePageState extends State<MyHomePage> {
             fit: BoxFit.fill,
           ),
           onChange: (value) => print("Scratch progress: $value%"),
-          onThreshold: () => print("Threshold reached, you won!"),
+          onThreshold: () => _controller.play(),
           child: Container(
             height: 300,
             width: 300,
@@ -38,15 +49,30 @@ class _MyHomePageState extends State<MyHomePage> {
                 ),
                 Column(
                   children: [
+                    ConfettiWidget(
+                      blastDirectionality: BlastDirectionality.explosive,
+                      confettiController: _controller,
+                      particleDrag: 0.05,
+                      emissionFrequency: 0.05,
+                      numberOfParticles: 100,
+                      gravity: 0.05,
+                      shouldLoop: false,
+                      colors: [
+                        Colors.green,
+                        Colors.red,
+                        Colors.yellow,
+                        Colors.blue,
+                      ],
+                    ),
                     Text(
-                      "Better luck",
+                      "You won",
                       style: TextStyle(
                         fontWeight: FontWeight.w400,
                         fontSize: 25,
                       ),
                     ),
                     Text(
-                      "next time!",
+                      "1 Lakh!",
                       style: TextStyle(
                         fontWeight: FontWeight.w400,
                         fontSize: 25,
