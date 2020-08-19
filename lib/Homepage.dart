@@ -25,7 +25,7 @@ class _MyHomePageState extends State<MyHomePage> {
       body: Center(
         child: Scratcher(
           brushSize: 50,
-          threshold: 50,
+          threshold: 75,
           color: Colors.red,
           image: Image.asset(
             "assets/images/outerimage.png",
