@@ -17,7 +17,7 @@ Check out the video Tutorial👉: https://youtu.be/GP2vguH2KEk
 Visit My Channel for more Flutter Tutorials 👉: https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ 
 
 ## Dependencies
-```
+```pubspec.yaml
 scratcher: "^1.4.0"
 confetti: ^0.5.4+1
 ```
